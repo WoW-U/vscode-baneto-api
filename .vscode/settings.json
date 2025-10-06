@@ -10,8 +10,6 @@
 	"typescript.tsc.autoDetect": "off",
 	"Lua.workspace.library": [
 		".\\.types\\.SubModules\\BlizzardInterfaceCode",
-		"c:\\Users\\amsta\\.vscode\\extensions\\amstaffix.gmr-lua-api-1.0.0\\lua-definitions",
-		"c:\\Users\\amsta\\.vscode\\extensions\\amstaffix.gmr-lua-api-1.6.1\\lua-definitions",
 		"~\\.vscode\\extensions\\ketho.wow-api-0.21.0\\Annotations\\Core"
 	],
 	"Lua.runtime.version": "Lua 5.1",
